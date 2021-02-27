@@ -8,4 +8,4 @@ and will contain characters of lower case letters, upper case letters, numerals,
 
 all of this will be determined on user input via alerts and prompts, and should no criteria be met will reset the displayed password to its default value of "Your Secure Password"
 
-Url to website: https://themaskedraider.github.io/homework3-pawgenerator/
+Url to website: https://themaskedraider.github.io/homework3-pawgenerator/index
